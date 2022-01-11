@@ -1,0 +1,6 @@
+font = "Aria, 12"
+feel = "DarkBrown"
+pad = [ 10, 10,]
+load_type = "Normal"
+pgf = 3.596
+size = [ 30, 0,]
